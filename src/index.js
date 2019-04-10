@@ -8,8 +8,8 @@ import { ProductList } from "./ProductList";
 function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Product List Page</h1>
+      <h2>Code master thiru :)</h2>
       <ProductList />
     </div>
   );
