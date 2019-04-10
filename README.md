@@ -1,2 +1,0 @@
-# ProductList
-Created with CodeSandbox
